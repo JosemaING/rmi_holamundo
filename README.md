@@ -19,7 +19,7 @@ Antes de ejecutar la aplicación, asegurarse de que Maven esté instalado y que 
    
 3. Arrancar `servidor.bat` para iniciar el servidor RMI.
     
-4. Editar `cliente.bat` y asegurarse de que tenga `pause` al final del script. Esto le permite ver la respuesta del servidor antes de que la ventana de comando se cierre.
+4. Editar `cliente.bat` y asegurarse de que tenga `pause` al final del script (en este caso está ya añadido). Esto le permite ver la respuesta del servidor antes de que la ventana de comando se cierre.
 
 5. Arrancar `cliente.bat`. (se puede editar el archivo `.bat` y sustituir `%1` por `localhost`. Si se omite, se toma por defecto `localhost`).
 
