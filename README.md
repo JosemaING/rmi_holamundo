@@ -1,7 +1,7 @@
 # RMI-HolaMundo
 
 ## Descripción
-Este proyecto es una aplicación Java RMI básica que permite la comunicación entre un cliente y un servidor de manera remota. El cliente envía una solicitud al servidor para obtener un mensaje de "Hola mundo", la fecha actual del servidor y el estado del servidor.
+Este proyecto es una aplicación Java RMI básica que permite la comunicación entre un cliente y un servidor de manera remota. El cliente envía una solicitud al servidor para obtener un mensaje de "Hola mundo", la fecha actual del servidor y el estado del servidor (3 objetos que son listados desde el cliente RMI).
 
 ## Requisitos
 - Java JDK instalado y configurado correctamente.
